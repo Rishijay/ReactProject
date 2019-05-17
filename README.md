@@ -2,6 +2,7 @@
 React native project to show usage and implementation of various elements and components.
 Things you get in this project are :-
 - Implementation for components View, Text, TextInput, Image, FlatList, Alert, ActivityIndicator, Button, Stylesheet.
+- Managing "state" for variable values.
 - BackHandling in single screen.
 - AsyncStorage for storing data persistently over the device.
 - React navigation using StackNavigator an SwitchNavigator together.
