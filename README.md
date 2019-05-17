@@ -6,3 +6,4 @@ Things you get in this project are :-
 - React navigation using StackNavigator an SwitchNavigator together.
 - Calling JSONs with post and get methods. (POST for login & GET to get list)
 - Switching between screens with passing and receiving parameters.
+- Opening web brower with link on text click
