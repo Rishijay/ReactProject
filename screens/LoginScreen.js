@@ -34,7 +34,7 @@ login = () => {
     data.append("emp_id", this.state.username);
     data.append("emp_password", this.state.password);
 
-    fetch('http://premisafe.com/staff_handler/staff_handler_json/password_set2.php', {
+    fetch('http://192.168.1.108/jsons/password_set2.php', {
     method: 'POST',
     headers: {
         Accept: 'application/json',
